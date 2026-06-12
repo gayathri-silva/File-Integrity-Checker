@@ -166,12 +166,4 @@ This project helped develop practical knowledge in:
 * File handling
 * Hashing algorithms
 * Command-line application development
-* Security monitoring techniques
-
----
-
-## Author
-
-Gayathri Silva
-
-Cyber Security Undergraduate | Security Enthusiast
+ 
